@@ -20,7 +20,7 @@
         <Button Content="Time period" HorizontalAlignment="Left" Margin="10,24,0,0" Grid.Row="1" VerticalAlignment="Top" Width="108"/>
         <Button Content="Show diagram" HorizontalAlignment="Left" Margin="10,49,0,0" Grid.Row="1" VerticalAlignment="Top" Width="108"/>
         <Button Content="Export" HorizontalAlignment="Left" Margin="10,74,0,0" Grid.Row="1" VerticalAlignment="Top" Width="108"/>
-        <Button Content="Hjælp" HorizontalAlignment="Left" Margin="10,99,0,0" Grid.Row="1" VerticalAlignment="Top" Width="108"/>
+        <Button Content="Help" HorizontalAlignment="Left" Margin="10,99,0,0" Grid.Row="1" VerticalAlignment="Top" Width="108"/>
         <Image Grid.Column="1" HorizontalAlignment="Left" Height="290" Margin="90,24,0,0" Grid.Row="1" VerticalAlignment="Top" Width="475" Source="noldus-tracklab-feat.jpg"/>
 
     </Grid>
